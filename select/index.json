@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "琥珀",
+  "base_artist": "SEKAI NO OWARI",
+  "createdAt": "2025-12-02T01:42:53.024386Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "琥珀",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/01_琥珀_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "琥珀",
+      "artist": "Yisa Yu",
+      "has_synced": false,
+      "path": "select/02_琥珀_Yisa_Yu.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "琥珀",
+      "artist": "Yisa Yu",
+      "has_synced": true,
+      "path": "select/03_琥珀_Yisa_Yu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "琥珀",
+      "artist": "彭永琛",
+      "has_synced": false,
+      "path": "select/04_琥珀_彭永琛.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "琥珀",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/05_琥珀_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "琥珀の雪",
+      "artist": "鬼束 ちひろ",
+      "has_synced": false,
+      "path": "select/pl_01_琥珀の雪_鬼束_ちひろ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "琥珀色に染まるこの街は",
+      "artist": "鬼束 ちひろ",
+      "has_synced": false,
+      "path": "select/pl_02_琥珀色に染まるこの街は_鬼束_ちひろ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "琥珀色キャンディ",
+      "artist": "鬼束 ちひろ",
+      "has_synced": false,
+      "path": "select/pl_03_琥珀色キャンディ_鬼束_ちひろ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "琥珀の月",
+      "artist": "鬼束 ちひろ",
+      "has_synced": false,
+      "path": "select/pl_04_琥珀の月_鬼束_ちひろ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "琥珀色の思い出",
+      "artist": "鬼束 ちひろ",
+      "has_synced": false,
+      "path": "select/pl_05_琥珀色の思い出_鬼束_ちひろ.txt"
+    }
+  ]
+}
